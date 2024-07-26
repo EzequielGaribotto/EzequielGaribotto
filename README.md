@@ -1,5 +1,4 @@
 # Ezequiel Garibotto
-<img align="right" src="https://visitcount.itsvg.in/api?id=EzequielGaribotto&icon=0&color=0"/>
 
 Cross-platform App Development student</br>
 A very happy person to have found interest and vocation in something.</br>
@@ -7,8 +6,7 @@ Currently with a part-time job as a data entry operator, but I am open for a sco
 
 ## 🌐 Contact
 [![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact@ezequielgaribottovillanueva@gmail.com)</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezequiel-garibotto)</br>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ezequias.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezequiel-garibotto)
 
 # 💻 Knowledge
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
