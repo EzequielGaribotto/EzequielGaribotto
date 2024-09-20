@@ -38,6 +38,5 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ## Personal :metal:
-### - Learning [🇩🇪](https://www.duolingo.com/profile/EzeGaris) :hourglass_flowing_sand:
-### - [Legit](https://www.youtube.com/Maximus332) :ice_cube:, [Stark](https://hevy.com/user/ezequielgaribotto) 💪🏻, [Feliz](https://open.spotify.com/user/n9d9sgshb42707eouxlb5yyxo?si=9208954fc0a840d9&nd=1&dlsi=7d007a0c0a094bdb) :notes:
+### - [Stay](https://www.duolingo.com/profile/EzeGaris) :hourglass_flowing_sand: [legit](https://www.youtube.com/Maximus332) :ice_cube:; [be](https://hevy.com/user/ezequielgaribotto) 💪🏻 [happy](https://open.spotify.com/user/n9d9sgshb42707eouxlb5yyxo?si=9208954fc0a840d9&nd=1&dlsi=7d007a0c0a094bdb) :notes:
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Feel+free+to+lurk)](https://git.io/typing-svg) -->
