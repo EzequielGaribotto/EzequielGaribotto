@@ -5,7 +5,7 @@
 ### - Took part of [ProgramaMe 2024 National](https://programame.com/2024/) competitive contest with Byte Busters, finished in the [fourth](https://www.youtube.com/live/xIyP5qJKHAo?si=T_4YPfl0ZH9knubj&t=6609) place, enhancing our problem solving skills with Java :bulb:
 
 ## :globe_with_meridians: Contact me
-[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact@ezequielgaribottovillanueva@gmail.com) [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/ezequiel-garibotto) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ezequiel.garibotto/)
+[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact@ezequielgaribottovillanueva@gmail.com) [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/ezequiel-garibotto)
 
 ## :computer: Knowledge
 
@@ -39,4 +39,3 @@
 
 ## Personal :metal:
 ### - [Stay](https://www.duolingo.com/profile/EzeGaris) :hourglass_flowing_sand: [legit](https://www.youtube.com/Maximus332) :ice_cube:; [be](https://hevy.com/user/ezequielgaribotto) 💪🏻 [happy](https://open.spotify.com/user/n9d9sgshb42707eouxlb5yyxo?si=9208954fc0a840d9&nd=1&dlsi=7d007a0c0a094bdb) :notes:
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Feel+free+to+lurk)](https://git.io/typing-svg) -->
