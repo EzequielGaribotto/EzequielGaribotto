@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cross-Platform+App+Development+Student;Ezequiel+Garibotto)](https://git.io/typing-svg)
 ### - Studying at [ITB](https://itb.cat/) :mortar_board:
-### - Part-time data entry operator :memo:
-### - Open for an internship in something related to my field of study :sparkles:
 ### - Took part of [ProgramaMe 2024 National](https://programame.com/2024/) competitive contest with Byte Busters, finished in the [fourth](https://www.youtube.com/live/xIyP5qJKHAo?si=T_4YPfl0ZH9knubj&t=6609) place, enhancing our problem solving skills with Java :bulb:
 
 ## :globe_with_meridians: Contact me
@@ -31,12 +29,6 @@
 ### IDES </br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-
-### Other / Self-thaught </br>
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ## Personal :metal:
 ### - [Stay](https://www.duolingo.com/profile/EzeGaris) :hourglass_flowing_sand: [legit](https://www.youtube.com/Maximus332) :ice_cube:; [be](https://hevy.com/user/ezequielgaribotto) 💪🏻 [happy](https://open.spotify.com/user/n9d9sgshb42707eouxlb5yyxo?si=9208954fc0a840d9&nd=1&dlsi=7d007a0c0a094bdb) :notes:
