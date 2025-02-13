@@ -1,11 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cross-Platform+App+Development+Student;Ezequiel+Garibotto)](https://git.io/typing-svg)
 ### - Studying at [ITB](https://itb.cat/) :mortar_board:
-### - Took part of [ProgramaMe 2024 National](https://programame.com/2024/) competitive contest with Byte Busters, finished in the [fourth](https://www.youtube.com/live/xIyP5qJKHAo?si=T_4YPfl0ZH9knubj&t=6609) place, enhancing our problem solving skills with Java :bulb:
-
+### - Took part of [ProgramaMe 2024 National](https://programame.com/2024/) competitive programming contest in groups of three with Byte Busters, where we finished in the [fourth](https://www.youtube.com/live/xIyP5qJKHAo?si=T_4YPfl0ZH9knubj&t=6609) place, enhancing our problem solving skills with Java :bulb:
+### - Junior Android Developer at [Eulix](https://www.eulix.eu/)
+<a href="https://www.producthunt.com/posts/eulix?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-eulix" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=870882&theme=light&t=1739437760378" alt="Eulix - Smartest&#0032;AI&#0032;for&#0032;Streaming—Tailored&#0032;to&#0032;Your&#0032;Emotions | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 ## :globe_with_meridians: Contact me
 [![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact@ezequielgaribottovillanueva@gmail.com) [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/ezequiel-garibotto)
 
-## :computer: Knowledge
+<!-- ## :computer: Knowledge
 
 ### Languages </br>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -29,3 +30,4 @@
 ### IDES </br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+-->
