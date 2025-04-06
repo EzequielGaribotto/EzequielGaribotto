@@ -1,16 +1,11 @@
-## Hi there 👋
+### - Studying at [ITB](https://itb.cat/) :mortar_board: 
+### - Took part of [ProgramaMe 2024 National](https://programame.com/2024/) competitive programming contest in groups of three with Byte Busters, where we finished in the fourth place, enhancing our problem solving skills with Java :bulb: 
+### - Former Junior Android Developer at [Eulix](https://play.google.com/store/apps/details?id=com.eulix.mobile.app) 
+<a href="https://www.producthunt.com/posts/eulix?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-eulix" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=870882&theme=light&t=1739437760378" alt="Eulix - Smartest&#0032;AI&#0032;for&#0032;Streaming—Tailored&#0032;to&#0032;Your&#0032;Emotions | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a> 
+---
+### - Currently looking for job opportunities in software development. 
+💡 Strong experience with Kotlin, Android, MVVM architecture, Retrofit, LiveData, Gradle, XML Layouts, Jetpack, UI/UX design and agile methodologies. Also, I am very interested in artificial intelligence & data science. 
+## :globe_with_meridians: Contact me  
+[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact@ezequielgaribottovillanueva@gmail.com)  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/ezequiel-garibotto) 
 
-<!--
-**EzequielGaribotto/EzequielGaribotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## :computer: Knowledge ### Languages </br> ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ### Front-end </br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ### Tools & software </br> ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ### IDES </br> ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) -->
