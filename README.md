@@ -1,4 +1,4 @@
-# Ey
+![banner egv](https://github.com/user-attachments/assets/b55c3d55-1abb-4aeb-9cf0-95abc2bab99d)
 
 Cross platform app development student at [ITB](https://itb.cat/) :mortar_board:  
 
