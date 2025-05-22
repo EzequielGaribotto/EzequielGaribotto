@@ -12,13 +12,11 @@ Cross platform app development student at [ITB](https://itb.cat/) :mortar_board:
 
 > ⚛️ Learning front-end **web** development with React, Node, Typescript and TailwindCSS during my free time.  
 > 🖥️ <kbd>[ezequielgaribotto.com](https://ezequielgaribotto.com/)</kbd> Take a look at my portfolio, it's a work in progress ;)  
-
-> Also, I am very interested in artificial intelligence & data science. Currently developing a **NEUTRAL NEWS** Android app with Kotlin.  
-
+> Will learn Spring Framework
 
 ### Developing
-> 📰 [Neutral News](https://github.com/EzequielGaribotto/neutral-news-android) in my free time
-> An app that groups similar news from different media and generates a neutral version of the event, free of ideological or editorial bias.
+> 📰 [Neutral News](https://github.com/EzequielGaribotto/neutral-news-android) in my free time  
+> App that collects news from multiple Spanish media, groups them by topic and generates a neutral version of the events, with the aim of combating media bias through a combination of algorithms and advanced artificial intelligence techniques.
 
 
 
