@@ -16,6 +16,11 @@ Cross platform app development student at [ITB](https://itb.cat/) :mortar_board:
 > Also, I am very interested in artificial intelligence & data science. Currently developing a **NEUTRAL NEWS** Android app with Kotlin.  
 
 
+### Developing
+> 📰 [Neutral News](https://github.com/EzequielGaribotto/neutral-news-android) in my free time
+> An app that groups similar news from different media and generates a neutral version of the event, free of ideological or editorial bias.
+
+
 
 > [!IMPORTANT]
 > Currently looking for job opportunities in software development.  
