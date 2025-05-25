@@ -1,26 +1,23 @@
 ![banner egv](https://github.com/user-attachments/assets/b55c3d55-1abb-4aeb-9cf0-95abc2bab99d)
-
-Cross platform app development student at [ITB](https://itb.cat/) :mortar_board:  
+ 
+🧑‍💻 21-year-old junior software developer.  
+Recently finished my studies at [ITB](https://itb.cat/) :mortar_board:
 
 >🧠 Participated in [competitive programming contests](https://programame.com/2024/) in groups of three with Byte Busters, finishing 4th place, enhancing our problem solving skills.  
 
-💡 Strong experience in Android apps development with Kotlin/Java, MVVM architecture, Retrofit, LiveData, XML Layouts, Jetpack, UX driven design and agile methodologies.  
+💡 Gained strong experience in Android apps development with Kotlin/Java, MVVM architecture, Retrofit, LiveData, XML Layouts, Jetpack, UX driven design and agile methodologies.  
 > Contributed to the development of an Android application at [Eulix](https://play.google.com/store/apps/details?id=com.eulix.mobile.app)  
 
+### Developing  
+> 📰 [Neutral News](https://github.com/EzequielGaribotto/neutral-news-android) in my free time  
+> App that collects news from multiple Spanish media, groups them by topic and generates a neutral version of the events, with the aim of combating media bias through a combination of algorithms and advanced artificial intelligence techniques.  
 
 ### Currently learning  
-
 > ⚛️ Learning front-end **web** development with React, Node, Typescript and TailwindCSS during my free time.  
 > 🖥️ <kbd>[ezequielgaribotto.com](https://ezequielgaribotto.com/)</kbd> Take a look at my portfolio, it's a work in progress ;)  
-> Will learn Spring Framework
+> 🍃 Learning Spring Framework basics  
 
-### Developing
-> 📰 [Neutral News](https://github.com/EzequielGaribotto/neutral-news-android) in my free time  
-> App that collects news from multiple Spanish media, groups them by topic and generates a neutral version of the events, with the aim of combating media bias through a combination of algorithms and advanced artificial intelligence techniques.
-
-
-
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > Currently looking for job opportunities in software development.  
 >  ## :globe_with_meridians: Feel free to contact me  
 > [![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact@ezequielgaribottovillanueva@gmail.com)  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/ezequiel-garibotto) 
