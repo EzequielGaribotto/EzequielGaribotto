@@ -1,6 +1,6 @@
 ![banner egv](https://github.com/user-attachments/assets/b55c3d55-1abb-4aeb-9cf0-95abc2bab99d)
  
-🧑‍💻 21-year-old junior software developer.  
+🧑‍💻 21-year-old junior software developer at @Convermax  
 Recently finished my studies at [ITB](https://itb.cat/) :mortar_board:
 
 >🧠 Participated in [competitive programming contests](https://programame.com/2024/) in groups of three with Byte Busters, finishing 4th place, enhancing our problem solving skills.  
@@ -15,13 +15,6 @@ Recently finished my studies at [ITB](https://itb.cat/) :mortar_board:
 ### Currently learning  
 > ⚛️ Learning front-end **web** development with React, Node, Typescript and TailwindCSS during my free time.  
 > 🖥️ <kbd>[ezequielgaribotto.com](https://ezequielgaribotto.com/)</kbd> Take a look at my portfolio, it's a work in progress ;)  
-> 🍃 Learning Spring Framework basics  
-
-> [!IMPORTANT]  
-> Currently looking for job opportunities in software development.  
->  ## :globe_with_meridians: Feel free to contact me  
-> [![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact@ezequielgaribottovillanueva@gmail.com)  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/ezequiel-garibotto)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielGaribotto&layout=compact&langs_count=8&theme=dark)
 
