@@ -1,6 +1,6 @@
 ![banner egv](https://github.com/user-attachments/assets/b55c3d55-1abb-4aeb-9cf0-95abc2bab99d)
  
-🧑‍💻 21-year-old junior software developer
+🧑‍💻 Software developer
 
 >🧠 Participated in [competitive programming contests](https://programame.com/2024/) in groups of three with Byte Busters, finishing 4th place, enhancing our problem solving skills.  
 
