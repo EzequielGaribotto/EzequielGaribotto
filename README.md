@@ -1,10 +1,10 @@
-🧑‍💻 Python Software Developer
+🧑‍💻 Junior Software Developer
 
 >🧠 Participated in [competitive programming contests](https://programame.com/2024/) in groups of three, finishing 4th place, enhancing our problem solving skills
 
 > Currently developing ProString ManagePro and 📰 [Neutral News](https://github.com/EzequielGaribotto/neutral-news-android) and in my free time
 > Studying Master's in AI & Big Data in Linkia FP
-> Looking for opportunities as a Junior Python Developer with big interest in Agentic AI, ML and Automation
+> Looking for opportunities as a Junior Python/Backend Developer with big interest in Agentic AI, ML and Automation
 
 Portfolio
 > 🖥️ <kbd>[ezequielgaribotto.com](https://ezequielgaribotto.com/)</kbd> Take a look at my portfolio to see more details of my work 
