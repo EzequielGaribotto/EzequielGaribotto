@@ -1,9 +1,9 @@
 🧑‍💻 Python Software Developer
 
->🧠 Participated in [competitive programming contests](https://programame.com/2024/) in groups of three with Byte Busters, finishing 4th place, enhancing our problem solving skills.  
+>🧠 Participated in [competitive programming contests](https://programame.com/2024/) in groups of three, finishing 4th place, enhancing our problem solving skills
 
-> Currently developing 📰 [Neutral News](https://github.com/EzequielGaribotto/neutral-news-android) and ProString ManagePro in my free time (remote)
-> Studying Master's in AI & Big Data in Linkia FP (remote)
+> Currently developing ProString ManagePro and 📰 [Neutral News](https://github.com/EzequielGaribotto/neutral-news-android) and in my free time
+> Studying Master's in AI & Big Data in Linkia FP
 > Looking for opportunities as a Junior Python Developer with big interest in Agentic AI, ML and Automation
 
 Portfolio
